@@ -1,0 +1,79 @@
+# -------------------------
+# PYTHON
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.databreeders_env/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+.code-workspace
+
+# -------------------------
+# DATA FILES (IMPORTANT)
+# You NEVER want to push data.
+# -------------------------
+/data/
+/Data/
+/Datasets/
+/Dataset/
+/raw_data/
+/processed_data/
+/inputs/
+/outputs/
+*.csv
+*.tsv
+*.json
+*.parquet
+*.feather
+*.h5
+*.zip
+# Environment files
+.env
+*.env
+.env.*
+
+
+# -------------------------
+# MODEL FILES
+# Trained weights, embeddings, checkpoints
+# -------------------------
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.weights
+
+# -------------------------
+# LOGS AND RUN OUTPUT
+# -------------------------
+logs/
+*.log
+*.out
+*.err
+wandb/
+mlruns/
+tensorboard/
+runs/
+
+# -------------------------
+# OS FILES
+# -------------------------
+Thumbs.db
+.DS_Store
+Icon?

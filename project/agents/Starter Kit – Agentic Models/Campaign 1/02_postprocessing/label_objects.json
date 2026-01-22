@@ -1,0 +1,78 @@
+{
+  "replace": {
+    "broadcaster": {
+      "mtv": "MTV",
+      "sanoma": "Sanoma",
+      "other": "WBD",
+      "all": ""
+    },
+    "device_type": {
+      "big_screen": "TV screen",
+      "small_screen": "Small screen"
+    },
+    "ad_type": {
+      "dynamic": "Streaming services",
+      "linear_static": "TV",
+      "all": "TV+Streaming services",
+      "onlinevideo": "Online video",
+      "all_onlinevideo": "TV+Streaming services+Online video"
+    },
+    "sex": {"F":  "W", "M": "M"},
+    "age_break": {
+      "03_14":  "03-14",
+      "15_24":  "15-24",
+      "25_34":  "25-34",
+      "35_44":  "35-44",
+      "45_54":  "45-54",
+      "55_64":  "55-64",
+      "65_plus":  "65+"
+    },
+    "channel": {
+      "3": "MTV - MTV3",
+      "12": "MTV - Sub",
+      "65": "MTV - Ava",
+      "72": "MTV - STAR",
+      "80": "MTV - National Geographic",
+      "5": "Sanoma - Nelonen",
+      "47": "Sanoma - JIM",
+      "68": "Sanoma - Liv",
+      "89": "Sanoma - Hero",
+      "13": "Warner Bros. Discovery - Eurosport 1",
+      "29": "Warner Bros. Discovery - TV5",
+      "51": "Warner Bros. Discovery - The Discovery Channel",
+      "74": "Warner Bros. Discovery - Kutonen",
+      "91": "Warner Bros. Discovery - Frii",
+      "100": "Warner Bros. Discovery - TLC"
+    }
+  },
+  "order": {
+    "broadcaster": [
+      "all",
+      "mtv",
+      "sanoma",
+      "other"
+    ],
+    "ad_type": ["all_onlinevideo", "all", "linear_static", "dynamic", "onlinevideo"],
+    "device_type":["big_screen", "small_screen"],
+    "tab_order_contacts" : ["_order_ad_type", "_order_broadcaster", "_order_device_type"],
+    "tab_order_rf" : ["_order_broadcaster", "_order_ad_type"],
+    "tab_order_r1plus" : ["_order_ad_type", "_order_broadcaster"],
+    "tab_order_summary" : ["_order_ad_type", "_order_broadcaster"]
+  },
+  "valid_engagement_type": [
+    "MTV TV",
+    "Sanoma TV",
+    "WBD TV",
+    "MTV TV screen Streaming services",
+    "MTV Small screen Streaming services",
+    "Sanoma TV screen Streaming services",
+    "Sanoma Small screen Streaming services",
+    "Sanoma Small screen Online video",
+    "TV+Streaming services+Online video",
+    "TV+Streaming services", "TV",
+    "Streaming services",
+    "MTV Streaming services",
+    "Sanoma Streaming services",
+    "Sanoma Online video"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+   "data": [
+      {
+         "Target name": "A3+",
+         "TV+Streaming services+Online video": 37.7,
+         "TV+Streaming services": 37.5,
+         "TV": 36.7,
+         "MTV TV": 30.7,
+         "Sanoma TV": 12.6,
+         "WBD TV": 7.2,
+         "Streaming services": 1.4,
+         "MTV Streaming services": 0.9,
+         "Sanoma Streaming services": 0.5,
+         "Sanoma Online video": 0.3
+      },
+      {
+         "Target name": "M25-54",
+         "TV+Streaming services+Online video": 31.0,
+         "TV+Streaming services": 30.9,
+         "TV": 30.0,
+         "MTV TV": 21.8,
+         "Sanoma TV": 12.1,
+         "WBD TV": 4.6,
+         "Streaming services": 1.5,
+         "MTV Streaming services": 1.0,
+         "Sanoma Streaming services": 0.6,
+         "Sanoma Online video": 0.1
+      },
+      {
+         "Target name": "W25-54",
+         "TV+Streaming services+Online video": 33.5,
+         "TV+Streaming services": 33.4,
+         "TV": 31.7,
+         "MTV TV": 25.9,
+         "Sanoma TV": 9.1,
+         "WBD TV": 7.2,
+         "Streaming services": 2.8,
+         "MTV Streaming services": 2.0,
+         "Sanoma Streaming services": 0.9,
+         "Sanoma Online video": 0.1
+      }
+   ],
+   "label_metadata": {
+      "MTV Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "WBD TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV+Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV+Streaming services+Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      }
+   },
+   "zoom": null
+}

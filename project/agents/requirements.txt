@@ -1,0 +1,12 @@
+# Required libraries for the Lesson 01 exercises and helper scripts.
+pandas>=2.3.3
+numpy>=2.4.1
+python-dotenv>=1.2.1
+pydantic>=2.12.5
+langchain>=1.2.3
+langchain-core>=1.2.7
+langchain-google-genai>=4.1.3
+langgraph>=1.0.6
+langsmith>=0.6.2
+fastmcp>=2.14.3
+loguru

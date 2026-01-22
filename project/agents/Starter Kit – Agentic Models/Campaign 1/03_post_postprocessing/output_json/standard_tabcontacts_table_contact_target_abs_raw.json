@@ -1,0 +1,127 @@
+{
+   "data": [
+      {
+         "Type": "MTV TV",
+         "A3+": 3458.2,
+         "M25-54": 380.1,
+         "W25-54": 440.2
+      },
+      {
+         "Type": "Sanoma TV",
+         "A3+": 909.1,
+         "M25-54": 189.3,
+         "W25-54": 124.5
+      },
+      {
+         "Type": "WBD TV",
+         "A3+": 685.5,
+         "M25-54": 78.5,
+         "W25-54": 160.4
+      },
+      {
+         "Type": "MTV TV screen Streaming services",
+         "A3+": 42.4,
+         "M25-54": 9.2,
+         "W25-54": 16.8
+      },
+      {
+         "Type": "MTV Small screen Streaming services",
+         "A3+": 32.2,
+         "M25-54": 5.6,
+         "W25-54": 13.0
+      },
+      {
+         "Type": "Sanoma TV screen Streaming services",
+         "A3+": 47.7,
+         "M25-54": 11.7,
+         "W25-54": 16.3
+      },
+      {
+         "Type": "Sanoma Small screen Streaming services",
+         "A3+": 23.0,
+         "M25-54": 5.4,
+         "W25-54": 7.2
+      },
+      {
+         "Type": "Sanoma Small screen Online video",
+         "A3+": 18.4,
+         "M25-54": 1.8,
+         "W25-54": 1.2
+      },
+      {
+         "Type": "TV+Streaming services",
+         "A3+": 5198.2,
+         "M25-54": 679.9,
+         "W25-54": 778.5
+      },
+      {
+         "Type": "TV+Streaming services+Online video",
+         "A3+": 5216.5,
+         "M25-54": 681.7,
+         "W25-54": 779.7
+      }
+   ],
+   "label_metadata": {
+      "TV+Streaming services+Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV+Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Small screen Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV TV screen Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV Small screen Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "WBD TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma TV screen Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Small screen Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      }
+   },
+   "zoom": null
+}

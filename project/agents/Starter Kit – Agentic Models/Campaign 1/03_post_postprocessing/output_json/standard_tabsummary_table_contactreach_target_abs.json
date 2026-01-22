@@ -1,0 +1,367 @@
+{
+   "data": [
+      {
+         "Target name": "W25-54",
+         "Type": "TV+Streaming services+Online video",
+         "Contacts (000)": 779.7,
+         "TRPs": 77.0,
+         "Average freq": 2.3,
+         "Reach 1+ (%)": 33.5,
+         "Reach 2+ (%)": 17.4,
+         "Reach 3+ (%)": 8.7
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "TV+Streaming services",
+         "Contacts (000)": 778.5,
+         "TRPs": 76.9,
+         "Average freq": 2.3,
+         "Reach 1+ (%)": 33.4,
+         "Reach 2+ (%)": 17.4,
+         "Reach 3+ (%)": 8.7
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "TV",
+         "Contacts (000)": 725.1,
+         "TRPs": 71.6,
+         "Average freq": 2.3,
+         "Reach 1+ (%)": 31.7,
+         "Reach 2+ (%)": 16.2,
+         "Reach 3+ (%)": 7.9
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "MTV TV",
+         "Contacts (000)": 440.2,
+         "TRPs": 43.5,
+         "Average freq": 1.7,
+         "Reach 1+ (%)": 25.9,
+         "Reach 2+ (%)": 10.2,
+         "Reach 3+ (%)": 3.9
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "Sanoma TV",
+         "Contacts (000)": 124.5,
+         "TRPs": 12.3,
+         "Average freq": 1.4,
+         "Reach 1+ (%)": 9.1,
+         "Reach 2+ (%)": 1.7,
+         "Reach 3+ (%)": 0.8
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "WBD TV",
+         "Contacts (000)": 160.4,
+         "TRPs": 15.8,
+         "Average freq": 2.2,
+         "Reach 1+ (%)": 7.2,
+         "Reach 2+ (%)": 3.1,
+         "Reach 3+ (%)": 1.6
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "Streaming services",
+         "Contacts (000)": 53.4,
+         "TRPs": 5.3,
+         "Average freq": 1.9,
+         "Reach 1+ (%)": 2.8,
+         "Reach 2+ (%)": 1.1,
+         "Reach 3+ (%)": 0.5
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "MTV Streaming services",
+         "Contacts (000)": 29.9,
+         "TRPs": 2.9,
+         "Average freq": 1.5,
+         "Reach 1+ (%)": 2.0,
+         "Reach 2+ (%)": 0.5,
+         "Reach 3+ (%)": 0.2
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "Sanoma Streaming services",
+         "Contacts (000)": 23.5,
+         "TRPs": 2.3,
+         "Average freq": 2.7,
+         "Reach 1+ (%)": 0.9,
+         "Reach 2+ (%)": 0.6,
+         "Reach 3+ (%)": 0.2
+      },
+      {
+         "Target name": "W25-54",
+         "Type": "Sanoma Online video",
+         "Contacts (000)": 1.2,
+         "TRPs": 0.1,
+         "Average freq": 1.1,
+         "Reach 1+ (%)": 0.1,
+         "Reach 2+ (%)": 0.0,
+         "Reach 3+ (%)": 0.0
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "TV+Streaming services+Online video",
+         "Contacts (000)": 681.7,
+         "TRPs": 63.5,
+         "Average freq": 2.0,
+         "Reach 1+ (%)": 31.0,
+         "Reach 2+ (%)": 16.2,
+         "Reach 3+ (%)": 7.6
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "TV+Streaming services",
+         "Contacts (000)": 679.9,
+         "TRPs": 63.4,
+         "Average freq": 2.0,
+         "Reach 1+ (%)": 30.9,
+         "Reach 2+ (%)": 16.1,
+         "Reach 3+ (%)": 7.5
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "TV",
+         "Contacts (000)": 647.9,
+         "TRPs": 60.4,
+         "Average freq": 2.0,
+         "Reach 1+ (%)": 30.0,
+         "Reach 2+ (%)": 15.5,
+         "Reach 3+ (%)": 7.1
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "MTV TV",
+         "Contacts (000)": 380.1,
+         "TRPs": 35.4,
+         "Average freq": 1.6,
+         "Reach 1+ (%)": 21.8,
+         "Reach 2+ (%)": 8.9,
+         "Reach 3+ (%)": 2.8
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "Sanoma TV",
+         "Contacts (000)": 189.3,
+         "TRPs": 17.6,
+         "Average freq": 1.5,
+         "Reach 1+ (%)": 12.1,
+         "Reach 2+ (%)": 2.7,
+         "Reach 3+ (%)": 1.1
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "WBD TV",
+         "Contacts (000)": 78.5,
+         "TRPs": 7.3,
+         "Average freq": 1.6,
+         "Reach 1+ (%)": 4.6,
+         "Reach 2+ (%)": 1.6,
+         "Reach 3+ (%)": 0.7
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "Streaming services",
+         "Contacts (000)": 32.0,
+         "TRPs": 3.0,
+         "Average freq": 2.0,
+         "Reach 1+ (%)": 1.5,
+         "Reach 2+ (%)": 0.6,
+         "Reach 3+ (%)": 0.3
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "MTV Streaming services",
+         "Contacts (000)": 14.9,
+         "TRPs": 1.4,
+         "Average freq": 1.5,
+         "Reach 1+ (%)": 1.0,
+         "Reach 2+ (%)": 0.2,
+         "Reach 3+ (%)": 0.1
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "Sanoma Streaming services",
+         "Contacts (000)": 17.1,
+         "TRPs": 1.6,
+         "Average freq": 2.7,
+         "Reach 1+ (%)": 0.6,
+         "Reach 2+ (%)": 0.4,
+         "Reach 3+ (%)": 0.2
+      },
+      {
+         "Target name": "M25-54",
+         "Type": "Sanoma Online video",
+         "Contacts (000)": 1.8,
+         "TRPs": 0.2,
+         "Average freq": 1.1,
+         "Reach 1+ (%)": 0.1,
+         "Reach 2+ (%)": 0.0,
+         "Reach 3+ (%)": 0.0
+      },
+      {
+         "Target name": "A3+",
+         "Type": "TV+Streaming services+Online video",
+         "Contacts (000)": 5216.5,
+         "TRPs": 96.7,
+         "Average freq": 2.6,
+         "Reach 1+ (%)": 37.7,
+         "Reach 2+ (%)": 22.0,
+         "Reach 3+ (%)": 12.8
+      },
+      {
+         "Target name": "A3+",
+         "Type": "TV+Streaming services",
+         "Contacts (000)": 5198.2,
+         "TRPs": 96.4,
+         "Average freq": 2.6,
+         "Reach 1+ (%)": 37.5,
+         "Reach 2+ (%)": 21.9,
+         "Reach 3+ (%)": 12.8
+      },
+      {
+         "Target name": "A3+",
+         "Type": "TV",
+         "Contacts (000)": 5052.8,
+         "TRPs": 93.7,
+         "Average freq": 2.6,
+         "Reach 1+ (%)": 36.7,
+         "Reach 2+ (%)": 21.3,
+         "Reach 3+ (%)": 12.4
+      },
+      {
+         "Target name": "A3+",
+         "Type": "MTV TV",
+         "Contacts (000)": 3458.2,
+         "TRPs": 64.1,
+         "Average freq": 2.1,
+         "Reach 1+ (%)": 30.7,
+         "Reach 2+ (%)": 15.4,
+         "Reach 3+ (%)": 8.0
+      },
+      {
+         "Target name": "A3+",
+         "Type": "Sanoma TV",
+         "Contacts (000)": 909.1,
+         "TRPs": 16.9,
+         "Average freq": 1.3,
+         "Reach 1+ (%)": 12.6,
+         "Reach 2+ (%)": 2.8,
+         "Reach 3+ (%)": 0.9
+      },
+      {
+         "Target name": "A3+",
+         "Type": "WBD TV",
+         "Contacts (000)": 685.5,
+         "TRPs": 12.7,
+         "Average freq": 1.8,
+         "Reach 1+ (%)": 7.2,
+         "Reach 2+ (%)": 2.4,
+         "Reach 3+ (%)": 1.1
+      },
+      {
+         "Target name": "A3+",
+         "Type": "Streaming services",
+         "Contacts (000)": 145.4,
+         "TRPs": 2.7,
+         "Average freq": 1.9,
+         "Reach 1+ (%)": 1.4,
+         "Reach 2+ (%)": 0.6,
+         "Reach 3+ (%)": 0.3
+      },
+      {
+         "Target name": "A3+",
+         "Type": "MTV Streaming services",
+         "Contacts (000)": 74.6,
+         "TRPs": 1.4,
+         "Average freq": 1.5,
+         "Reach 1+ (%)": 0.9,
+         "Reach 2+ (%)": 0.2,
+         "Reach 3+ (%)": 0.1
+      },
+      {
+         "Target name": "A3+",
+         "Type": "Sanoma Streaming services",
+         "Contacts (000)": 70.7,
+         "TRPs": 1.3,
+         "Average freq": 2.6,
+         "Reach 1+ (%)": 0.5,
+         "Reach 2+ (%)": 0.3,
+         "Reach 3+ (%)": 0.1
+      },
+      {
+         "Target name": "A3+",
+         "Type": "Sanoma Online video",
+         "Contacts (000)": 18.4,
+         "TRPs": 0.3,
+         "Average freq": 1.1,
+         "Reach 1+ (%)": 0.3,
+         "Reach 2+ (%)": 0.0,
+         "Reach 3+ (%)": 0.0
+      }
+   ],
+   "label_metadata": {
+      "TV+Streaming services+Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV+Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "MTV TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Streaming services": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "WBD TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "TV": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      },
+      "Sanoma Online video": {
+         "color": null,
+         "alpha": null,
+         "line_style": null,
+         "border_radius": null
+      }
+   },
+   "zoom": null
+}

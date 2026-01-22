@@ -592,6 +592,9 @@ if LANGCHAIN_AVAILABLE:
         # Initialize Gemini LLM
         llm: BaseChatModel = ChatGoogleGenerativeAI(
             model="gemini-2.5-flash",
+            #model="gemini-2.5-flash-lite",
+            #model="gemini-2.5-pro",
+            #model="gemini-3-pro-preview",
             temperature=0.0,  # Deterministic
         )
         
@@ -648,7 +651,7 @@ When a user asks for data:
 1. ANALYZE the request to identify what data types are needed (use the knowledge base above)
 2. Map natural language to specific data_types (e.g., "TRP data" → "impacts_in_target")
 3. Identify target audience from the request (e.g., "women 25-54" → "W25-54")
-4. Use generate_api_call tool to CREATE THE ACTUAL API REQUEST
+4. Use list_available_fixtures every time, then use generate_api_call tool to CREATE THE ACTUAL API REQUEST
 5. Return the curl command and request body - DO NOT just search for local files
 6. Explain what the API call will fetch
 
